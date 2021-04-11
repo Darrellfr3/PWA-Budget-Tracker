@@ -25,7 +25,7 @@ This application is intended to organize a person's finances with simple to use 
 ## Links
 
 * Project Repo: [Repository](https://github.com/Darrellfr3/PWA-Budget-Tracker)
-* GitHub Page: [Website](https://jeishu.github.io/work-day-scheduler/)
+* GitHub Page: [Website](https://aqueous-sierra-48018.herokuapp.com/)
 
 ## Screenshots
 
